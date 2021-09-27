@@ -1,1 +1,1 @@
-# js-shop
+# Responsive Ecommerce Website
